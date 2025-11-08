@@ -1,0 +1,14 @@
+body {
+    font-family: Arial,  sans-serif; /* La famiglia del font */
+    font-size: 15px; /* La dimensione del font principale nei tag <p></p> */
+    background-color: #000000; /* Il colore dello sfondo della pagina web */
+    color: #22fe00; /* Il colore del testo */ 
+}
+h1 {
+    color: #00a800; /* Il colore dell'intestazione */
+    font-size: 24px; /* La dimensione del font dell'intestazione */
+    font-family: Georgia, serif; /* La famiglia del font usata nell'intestazione */
+}
+img {
+    width: 1000px;
+}
